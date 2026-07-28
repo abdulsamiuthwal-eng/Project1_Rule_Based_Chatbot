@@ -1,0 +1,14 @@
+# Requirements — DecoBot Rule-Based AI Chatbot
+#
+# This project uses ONLY Python Standard Library modules.
+# No external packages need to be installed.
+#
+# Standard Library modules used:
+#   - datetime  (for date and time commands)
+#   - time      (for sleep/delay if needed)
+#   - random    (for selecting random fallback responses)
+#
+# To run the project:
+#   python chatbot.py
+#
+# Python version required: Python 3.6 or higher
